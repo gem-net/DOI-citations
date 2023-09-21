@@ -11,3 +11,6 @@ Run doi.ipynb
 ### TODO
 
 - Convert fields to a standardized citation format
+- How to abbreviate journal names?
+- How to handle volume number, page numbers, first-last?
+- How to handle italics and bold?
