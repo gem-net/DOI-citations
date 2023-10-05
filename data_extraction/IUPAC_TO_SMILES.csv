@@ -1,180 +1,36 @@
 ,IUPAC,SMILES1,SMILES2
-0,4-aminobutyric acid,NCCCC(O)=O,NCCCC(=O)O
-1,(R/S)-4-amino-3-hydroxy butyric acid,,
-2,"(3-aminocyclohexane)carboxylic acid, ",,
-3,"(3S,4S)-4-amino-3-hydroxy-6-methylheptanoic acid",CC(C)C[C@H](N)[C@@H](O)CC(O)=O,N[C@H]([C@H](CC(=O)O)O)CC(C)C
-4,"(3S,4R)-4-amino-3-hydroxy-5-methylhexanoic acid",CC(C)[C@@H](N)[C@@H](O)CC(O)=O,N[C@@H]([C@H](CC(=O)O)O)C(C)C
-5,"(3S,4R)-4-amino-3-hydroxy-5-phenylpentanoic acid",N[C@H](Cc1ccccc1)[C@@H](O)CC(O)=O,N[C@@H]([C@H](CC(=O)O)O)CC1=CC=CC=C1
-6,Benzenepropanoic Acid-CME,,
-7,Cinnamic Acid-CME,,
-8,Benzoic Acid-CME,,
-9,Phenyl Acetic Acid-CME,,
-10,"3,4-dihydroxy Benzenepropanoic Acid-CME",,
-11,Pyrrolepropanoic Acid-CME,,
-12,4-Amino-Benzenepropanoic Acid-CME,,
-13,"3,4-dihydroxycinnamic Acid-CME",,
-14,Pyrrole Propenoic Acid-CME,,
-15,4-Azido-Benzenepropanoic Acid-CME,,
-16,p-NO2-Bz-CME,,
-17,p-CN-Bz-CME,,
-18,p-N3-Bz-CME,,
-19,m-CHO-Bz-CME,,
-20,m-NO2-CH2-Bz-CME,,
-21,o-F-Bz-CME,,
-22,o-I-Bz-CME,,
-23,o-CHO-Bz-CME,,
-24,p-Methoxy-Bz-CME,,
-25,p-Ethynyl-Bz-CME,,
-26,p-HOCH2-Bz-CME,,
-27,4N-Abz-CME,,
-28,"3-OH, 4-NO2-Bz-CME",,
-29,"3-NH2, 4-NO2-Bz-CME",,
-30,"3-NO2, 4-NH2-Bz-CME",,
-31,Cyanomethyl isonicotinate,O=C(OCC#N)c1ccncc1,C(#N)COC(C1=CC=NC=C1)=O
-32,Cyanomethyl 2-fluoroisonicotinate,Fc1cc(ccn1)C(=O)OCC#N,C(#N)COC(C1=CC(=NC=C1)F)=O
-33,Cyanomethyl 2-oxo-2H-chromene-3-carboxylate,O=C(OCC#N)C1=Cc2ccccc2OC1=O,C(#N)COC(=O)C=1C(OC2=CC=CC=C2C1)=O
-34,Cyanomethyl 1H-pyrrole-2-carboxylate,O=C(OCC#N)c1[nH]ccc1,C(#N)COC(=O)C=1NC=CC1
-35,Cyanomethyl thiophene-2-carboxylate,O=C(OCC#N)c1sccc1,C(#N)COC(=O)C=1SC=CC1
-36,"Pyrrole-ABT : 2-(4-(((1H-pyrrole-2-carbonyl)thio)methyl)benzamido)ethan-1-
-aminium chloride",,
-37,"Thiophene-ABT : 2-(4-(((thiophene-2-carbonyl)thio)methyl)benzamido)ethan-1-
-aminium chloride",,
-38,2-(4-((Pentanoylthio)methyl)benzamido)ethan-1-aminium chloride,[Cl-].CCCCC(=O)SCc1ccc(cc1)C(=O)NCC[NH3+],[Cl-].C(CCCC)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
-39,"2-(4-((Pent-4-enoylthio)methyl)benzamido)ethan-1-
+0,4-aminobutyric acid,NCCCC(=O)O,NCCCC(=O)O
+1,(R/S)-4-amino-3-hydroxy butyric acid,NCC(CC(=O)O)O,NCC(CC(=O)O)O
+2,Cyanomethyl isonicotinate,C(#N)COC(C1=CC=NC=C1)=O,C(#N)COC(C1=CC=NC=C1)=O
+3,Cyanomethyl 2-fluoroisonicotinate,C(#N)COC(C1=CC(=NC=C1)F)=O,C(#N)COC(C1=CC(=NC=C1)F)=O
+4,Cyanomethyl 2-oxo-2H-chromene-3-carboxylate,C(#N)COC(=O)C=1C(OC2=CC=CC=C2C1)=O,C(#N)COC(=O)C=1C(OC2=CC=CC=C2C1)=O
+5,Cyanomethyl 1H-pyrrole-2-carboxylate,C(#N)COC(=O)C=1NC=CC1,C(#N)COC(=O)C=1NC=CC1
+6,Cyanomethyl thiophene-2-carboxylate,C(#N)COC(=O)C=1SC=CC1,C(#N)COC(=O)C=1SC=CC1
+7,2-(4-((Pentanoylthio)methyl)benzamido)ethan-1-aminium chloride,[Cl-].C(CCCC)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1,[Cl-].C(CCCC)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+8,"2-(4-((Pent-4-enoylthio)methyl)benzamido)ethan-1-
 aminium chloride",,[Cl-].C(CCC=C)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
-40,"2-(4-(((3-Cyanopropanoyl)thio)methyl)benzamido)ethan-1-
+9,"2-(4-(((3-Cyanopropanoyl)thio)methyl)benzamido)ethan-1-
 aminium chloride",,[Cl-].C(#N)CCC(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
-41,"2-(4-(((4-Methoxy-4-oxobutanoyl)thio)methyl)benzamido)
-ethan-1-aminium chloride",,[Cl-].COC(CCC(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1)=O
-42,"2-(4-(((3-Nitropropanoyl)thio)methyl)benzamido)ethan-1-
+10,"2-(4-(((4-Methoxy-4-oxobutanoyl)thio)methyl)benzamido)
+ethan-1-aminium chloride",[Cl-].C(C)[NH3+],[Cl-].COC(CCC(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1)=O
+11,"2-(4-(((3-Nitropropanoyl)thio)methyl)benzamido)ethan-1-
 aminium chloride",,[Cl-].[N+](=O)([O-])CCC(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
-43,"2-(4-(((Cyclohexanecarbonyl)thio)methyl)benzamido)ethan-
-1-aminium chloride",,[Cl-].C1(CCCCC1)C(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
-44,"2-(4-(((2-Bromo-2-methylpropanoyl)thio)methyl)benzamido)
-ethan-1-aminium chloride",,[Cl-].BrC(C(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1)(C)C
-45,p-formyl-benzoate CME : Cyanomethyl 4-formylbenzoate,,
-46,p-formyl-phenylacetate CME : Cyanomethyl 2-(4-formylphenyl)acetate,,
-47,p-formyl-benzylpropenoic acid CME : Cyanomethyl 3-(4-formylphenyl)propanoate,,
-48,p-hydrazine-benzyl-CME: Cyanomethyl 4-hydrazineylbenzoate,,
-49,"p-hydrazine-phenylacetate-CME: 2-(4-(2-(cyanomethoxy)-2-
-oxoethyl)phenyl)hydrazinium chloride",,
-50,"p-hydrazine-benzenepropanoic acid-CME: 2-(4-(3-(cyanomethoxy)-3-
-oxopropyl)phenyl)hydrazinium chloride",,
-51,"(S)-1-((3,5-dinitrobenzyl)oxy)-1-oxobut-3-en-2-aminium",[NH3+][C@@H](C=C)C(=O)OCc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O,[N+](=O)([O-])C=1C=C(COC([C@H](C=C)[NH3+])=O)C=C(C1)[N+](=O)[O-]
-52,Abz-CME,,
-53,3N-Abz-CME,,
-54,4N-Abz-CME,,
-55,4N-Abz-DNB,,
-56,Abz-DNB,,
-57,Apy-CME,,
-58,Abz,Nc1nc(Cc2c(Cl)ccc3[nH]ccc23)nc(Nc4ccc(cc4)C#N)n1,
-59,5F-Bz-CME,,
-60,p-NO2-Bz-CME,,
-61,p-Cl-Bz-CME,,
-62,p-N3-Bz-CME,,
-63,p-OCH3-Bz-CME,,
-64,p-CH3-Bz-CME,,
-65,p-CH2N3-Bz-CME,,
-66,p-CH2NH2-Bz-CME,,
-67,p-OH-Bz-CME,,
-68,p-CH2OH-Bz-CME,,
-69,p-CHO-Bz-CME,,
-70,Mal-CBT,,
-71,Mal-DNB,,
-72,Mal-Bz-DNB,,
-73,,,
-74,2-NO2-Bz-Mal-CME,,
-75,Abz,Nc1nc(Cc2c(Cl)ccc3[nH]ccc23)nc(Nc4ccc(cc4)C#N)n1,
-76,Abz5OH,,
-77,Abz5OMe,,
-78,Abz5F,,
-79,Apy-CME,,
-80,Atp-CME,,
-81,Atz-CME,,
-82,3NAbz-CME,,
-83,"3,5-dinitrobenzyl 3-aminopropanoate",NCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-]
-84,"3,5-dinitrobenzyl-amino-4-butanoate",NC(CCC([O-])=O)Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-]
-85,S-(4-((2-aminoethyl)carbamoyl)benzyl) 4- aminobutanethioate,,
-86,"3,5-dinitrobenzyl 4-(methylamino)butanoate",CNCCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-]
-87,"S-(4-((2-aminoethyl)carbamoyl)benzyl) 4-amino-2,2- dimethylbutanethioate",,
-88,"rac-cis-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",,
-89,"rac-trans-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",,
-90,"3,5-dinitrobenzyl 5-aminopentanoate",NCCCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-]
-91,"3,5-dinitrobenzyl 6-aminohexanoate",NCCCCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-]
-92,S-(4-((2-aminoethyl)carbamoyl)benzyl) 7- aminoheptanethioate,,
-93,S-(4-((2-aminoethyl)carbamoyl)benzyl) 5- (aminomethyl)furan-3-carbothioate,,
-94,"3,5-dinitrobenzyl (E/Z)-4-aminobut-2-enoate",,
-95,S-(4-((2-aminoethyl)carbamoyl)benzyl) 3- (aminomethyl)benzothioate,,
-96,"3,5-dinitrobenzyl 2-(piperidin-4-yl)acetate",[O-]C(=O)C(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C2CCNCC2,[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-]
-97,"3,5-dinitrobenzyl 2-(piperazin-1-yl)acetate",[O-]C(=O)C(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)N2CCNCC2,[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-]
-98,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1s,3s)-3- aminocyclobutane-1-carbothioate",,
-99,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1r,3r)-3- aminocyclobutane-1-carbothioate",,
-100,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1S,3R)-3- aminocyclopentane-1-carbothioate",,
-101,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1S,3R)-3- aminocyclohexane-1-carbothioate",,
-102,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1S,3S)-3- aminocyclohexane-1-carbothioate",,
-103,"3,5-dinitrobenzyl 3-aminopropanoate",NCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-]
-104,"3,5-dinitrobenzyl-amino-4-butanoate",NC(CCC([O-])=O)Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-]
-105,S-(4-((2-aminoethyl)carbamoyl)benzyl) 4- aminobutanethioate,,
-106,"3,5-dinitrobenzyl 4-(methylamino)butanoate",CNCCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-]
-107,"S-(4-((2-aminoethyl)carbamoyl)benzyl) 4-amino-2,2- dimethylbutanethioate",,
-108,"rac-cis-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",,
-109,"rac-trans-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",,
-110,"3,5-dinitrobenzyl 5-aminopentanoate",NCCCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-]
-111,"3,5-dinitrobenzyl 6-aminohexanoate",NCCCCC(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C([O-])=O,[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-]
-112,S-(4-((2-aminoethyl)carbamoyl)benzyl) 7- aminoheptanethioate,,
-113,S-(4-((2-aminoethyl)carbamoyl)benzyl) 5- (aminomethyl)furan-3-carbothioate,,
-114,"3,5-dinitrobenzyl (E/Z)-4-aminobut-2-enoate",,
-115,S-(4-((2-aminoethyl)carbamoyl)benzyl) 3- (aminomethyl)benzothioate,,
-116,"3,5-dinitrobenzyl 2-(piperidin-4-yl)acetate",[O-]C(=O)C(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)C2CCNCC2,[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-]
-117,"3,5-dinitrobenzyl 2-(piperazin-1-yl)acetate",[O-]C(=O)C(Cc1cc(cc(c1)[N+]([O-])=O)[N+]([O-])=O)N2CCNCC2,[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-]
-118,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1s,3s)-3- aminocyclobutane-1-carbothioate",,
-119,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1r,3r)-3- aminocyclobutane-1-carbothioate",,
-120,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1S,3R)-3- aminocyclopentane-1-carbothioate",,
-121,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1S,3R)-3- aminocyclohexane-1-carbothioate",,
-122,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1S,3S)-3- aminocyclohexane-1-carbothioate",,
-123,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1s,3s)-3- aminocyclobutane-1-carbothioate",,
-124,"S-(4-((2-aminoethyl)carbamoyl)benzyl) (1r,3r)-3- aminocyclobutane-1-carbothioate",,
-125,trans-4-cβAA,,
-126,cis-4-cβAA,,
-127,"(1R, 2R)-2-ACPC",,
-128,"(1R, 2S)-2-ACPC",,
-129,"(1S,2R)-2-ACPC",,
-130,"(1S, 2S)-2-ACPC",,
-131,"(1R,2R)-2-ACHC",,
-132,"(1R,2S)-2-ACHC",,
-133,"(1S,2R)-2-ACHC",,
-134,"(1S,2S)-2-ACHC",,
-135,alpha puromycin-CME,,
-136,beta puromycin-CME,,
-137,"(1R, 2R)-2-ACPC",,
-138,"(1R, 2S)-2-ACPC",,
-139,"(1S,2R)-2-ACPC",,
-140,"(1S, 2S)-2-ACPC",,
-141,"(1R,2R)-2-ACHC",,
-142,"(1R,2S)-2-ACHC",,
-143,"(1S,2R)-2-ACHC",,
-144,"(1S,2S)-2-ACHC",,
-145,"(1R, 2R)-2-ACPC",,
-146,"(1R, 2S)-2-ACPC",,
-147,"(1S,2R)-2-ACPC",,
-148,"(1S, 2S)-2-ACPC",,
-149,"(1R,2R)-2-ACHC",,
-150,"(1R,2S)-2-ACHC",,
-151,"(1S,2R)-2-ACHC",,
-152,"(1S,2S)-2-ACHC",,
-153,β3-hGly,,
-154,(S)-β3-hAla,,
-155,(S)-β3-hLeu,,
-156,(S)-β3-Ileh,,
-157,(S)-β3-hGln,,
-158,(S)-β3-hPro,,
-159,(S)-β3-hPhe,,
-160,(S)-β3-hTrp,,
-161,(S)-β3-hPhg,,
-162,(S)-β3-hMet,,
-163,(S)-β3-hAsn,,
-164,(S)-β3-hLys,,
-165,(S)-β3-hGlu,,
-166,(R)-β3-hAla (D in paper),,
-167,(R)-β3-hLeu (D in paper),,
-168,(R)-β3-hPhg (D in paper),,
+12,"2-(4-(((Cyclohexanecarbonyl)thio)methyl)benzamido)ethan-
+1-aminium chloride",C1(CCCCC1)C(=O)SCC1=CC=C(C(=O)NCC)C=C1,[Cl-].C1(CCCCC1)C(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+13,"2-(4-(((2-Bromo-2-methylpropanoyl)thio)methyl)benzamido)
+ethan-1-aminium chloride",[Cl-].C(C)[NH3+],[Cl-].BrC(C(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1)(C)C
+14,"(S)-1-((3,5-dinitrobenzyl)oxy)-1-oxobut-3-en-2-aminium",[N+](=O)([O-])C=1C=C(COC(C(C=C)[NH3+])=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(C(C=C)[NH3+])=O)C=C(C1)[N+](=O)[O-]
+15,"3,5-dinitrobenzyl 3-aminopropanoate",[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-]
+16,"3,5-dinitrobenzyl-amino-4-butanoate",[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-]
+17,"3,5-dinitrobenzyl 4-(methylamino)butanoate",[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-]
+18,"3,5-dinitrobenzyl 5-aminopentanoate",[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-]
+19,"3,5-dinitrobenzyl 6-aminohexanoate",[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-]
+20,"3,5-dinitrobenzyl 2-(piperidin-4-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-]
+21,"3,5-dinitrobenzyl 2-(piperazin-1-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-]
+22,"3,5-dinitrobenzyl 3-aminopropanoate",[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-]
+23,"3,5-dinitrobenzyl-amino-4-butanoate",[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-]
+24,"3,5-dinitrobenzyl 4-(methylamino)butanoate",[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-]
+25,"3,5-dinitrobenzyl 5-aminopentanoate",[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-]
+26,"3,5-dinitrobenzyl 6-aminohexanoate",[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-]
+27,"3,5-dinitrobenzyl 2-(piperidin-4-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-]
+28,"3,5-dinitrobenzyl 2-(piperazin-1-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-],[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-]
