@@ -10,7 +10,11 @@ Run doi.ipynb
 
 ### TODO
 
-- Convert fields to a standardized citation format
-- How to abbreviate journal names?
-- How to handle volume number, page numbers, first-last?
-- How to handle italics and bold?
+-   remove periods and everything to the left for SMILES
+    [Cl-].C(CCC=C)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+    ^^^^^^
+    C(CCC=C)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+
+-   automatically convert shortname to longname using Hana's
+
+-   add pipeline for auto extracting the supplemental pdfs
